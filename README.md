@@ -218,3 +218,5 @@ git help: Получение справки по командам Git.
     ```
     git clone https://github.com/ollis666/firstrepos.git
     ```
+
+    ![](/photo/git_clone.png)
